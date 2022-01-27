@@ -18,6 +18,7 @@ public:
      * @param b The Length of triangle side b.
      * @param c The Length of triangle side c.
      * @see Triangle()
+     * @see Traingle() code is new
      * @see Triangle(const Triangle& triangle)
      */
     Triangle(const double a, const double b, const double c);
